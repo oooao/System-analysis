@@ -82,3 +82,12 @@
 
 # DFD圖0
 ## ![DFD0](DFD.jpg)
+
+# UML類別圖
+## ![UML](UML.jpg)
+
+# 活動圖
+## ![ad](activity diagram.jpg)
+
+# 循序圖
+## ![sd](sequence diagram.jpg)
