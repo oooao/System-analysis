@@ -91,3 +91,17 @@
 
 # 循序圖
 ## ![sd](sequencediagram.jpg)
+------------------------------------------------------------------------
+# 分鏡板
+## 首頁
+### ![home](home.jpg)
+
+## 個人頁面
+### ![information](information.jpg)
+
+
+## 上傳穿搭頁面
+### ![upload](upload.jpg)
+
+## 編輯個人資料頁面
+### ![edit](edit.jpg)
